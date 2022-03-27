@@ -1,5 +1,5 @@
 # pywal
-git clone https://github.com/dylanaraps/pywal
+git clone https://github.com/eddieatjollyroger/pywal
 cd pywal
 pip3 install --user .
 
